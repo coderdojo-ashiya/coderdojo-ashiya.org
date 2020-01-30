@@ -1,6 +1,7 @@
-.test {
-    color: red;
-}section h2{
+section{
+  padding: 24px 12vw;
+}
+section h2{
   background-image: repeating-linear-gradient(45deg,transparent,transparent 4px,#f7fad2 4px,#f7fad2 10px);
   border-bottom: 4px dashed #46d0d3;
   border-top: 4px dashed #46d0d3;
