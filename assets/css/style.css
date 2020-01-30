@@ -2,6 +2,7 @@ body{
   color: #555;
   font-family: 'M PLUS Rounded 1c', sans-serif;
   line-height: 1.8em;
+  margin: 0;
 }
 section{
   padding: 24px 12vw;
@@ -74,4 +75,12 @@ a{
   .navigation{
     display: none;
   }
+}
+
+footer{
+  background-color: #46d0d3;
+  color: #fff;
+  padding: 48px;
+  text-align: center;
+  font-weight: bold;
 }
