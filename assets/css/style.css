@@ -48,6 +48,7 @@ a{
   border-radius: 50px;
   padding: 20px 36px;
   margin: 12px 12vw;
+  text-align: center;
 }
 .navigation ul{
   list-style: none;
