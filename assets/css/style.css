@@ -65,3 +65,12 @@ a{
 .navigation a:hover{
   color: #f96e90;
 }
+
+@media screen and (max-width:800px) {
+  section{
+    padding: 24px 2vw;
+  }
+  .navigation{
+    display: none;
+  }
+}
