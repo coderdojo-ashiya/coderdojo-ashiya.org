@@ -1,3 +1,11 @@
 .test {
     color: red;
+}section h2{
+  background-image: repeating-linear-gradient(45deg,transparent,transparent 4px,#f7fad2 4px,#f7fad2 10px);
+  border-bottom: 4px dashed #46d0d3;
+  border-top: 4px dashed #46d0d3;
+  box-sizing: border-box;
+  line-height: 1.8em;
+  margin: 4em 0 1em;
+  text-align: center;
 }
