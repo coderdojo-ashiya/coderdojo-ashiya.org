@@ -22,3 +22,21 @@ a{
   border-bottom: 3px dotted #f96e90;
   font-weight: bold;
 }
+
+.button{
+  background-color: #46d0d3;
+  border: solid 4px #46d0d3;
+  border-radius: 8px;
+  padding: 12px 30px;
+  display: block;
+  color: #fff;
+  text-align: center;
+  margin: 50px auto;
+  min-width: 240px;
+  transition: all .3s ease 0s;
+  width: 30%;
+}
+.button:hover{
+  background-color: #fff;
+  color: #46d0d3;
+}
